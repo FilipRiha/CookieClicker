@@ -1,0 +1,31 @@
+#cookie{
+    margin-left: 40%;
+    width:29%;
+    height: 400px;
+    max-width:25% ;
+}
+#counter{
+    margin-left: 50%;
+    width:20%;
+    font-size: 30px;
+    color: aliceblue;
+    
+font-family: 'Righteous', cursive;
+}
+body{
+    background-image: url(/res/img/e75_1920x1280_noc_ru.jpg);
+    
+}
+#autoclickerButton{
+    margin-left: 30%;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Noto Sans Mono', monospace;
+}
+#cookieMultiplier{
+    margin-left: 20%;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Noto Sans Mono', monospace;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300&family=Righteous&display=swap');
